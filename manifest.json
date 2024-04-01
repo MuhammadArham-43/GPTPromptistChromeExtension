@@ -1,0 +1,14 @@
+{
+    "name": "Prompt Optimizer",
+    "version" : "1.0.0",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup" : "extensionPage/popup.html",
+        "default_icon" : "icon.png"
+    },
+    "icons" : {
+        "128" : "icon.png"
+    },
+    "permissions" : ["activeTab", "scripting"]
+    
+}
